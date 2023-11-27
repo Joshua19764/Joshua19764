@@ -23,4 +23,4 @@ Discord Since 2016, I'm Reaching with JavaScript Since 2022. <br>
 <a href="https://github.com/joshua19764" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekrem&theme=dark&count_private=true&show_icons=true&hide_border=true"/></a>
 </p>
 
-ss
+[![Discord Presence](https://lanyard.cnrad.dev/api/220655775016681483)](https://discord.com/users/220655775016681483)
