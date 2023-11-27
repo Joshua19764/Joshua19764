@@ -15,7 +15,7 @@ Discord Since 2016, I'm Reaching with JavaScript Since 2022. <br>
 <a href="https://github.com/joshua19764" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://steamcommunity.com/profiles/7656119923286551022368722" target"blank_"><img src="https://img.shields.io/badge/steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ekrem" alt="ekrem1794" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Botleyy" alt="Botleyy" /> </p>
 
 <h3 align="center">GitHub Profile :</h3>
 <p align="center">
