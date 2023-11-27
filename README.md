@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm Ekrem<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <p align="center">
+<h1 align="center">Hi , I'm Botleyy<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <p align="center">
 <p align="center">
-Discord Since 2015, I'm Reaching with JavaScript Since 2021. <br>
+Discord Since 2016, I'm Reaching with JavaScript Since 2022. <br>
 </p>
 
 ### Programming Languages :
@@ -23,4 +23,4 @@ Discord Since 2015, I'm Reaching with JavaScript Since 2021. <br>
 <a href="https://github.com/joshua19764" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekrem&theme=dark&count_private=true&show_icons=true&hide_border=true"/></a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/128727466112974848)](https://discord.com/users/128727466112974848)
+[![Discord Presence](https://lanyard.cnrad.dev/api/220655775016681483)](https://discord.com/users/220655775016681483)
