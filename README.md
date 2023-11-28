@@ -17,10 +17,4 @@ Discord Since 2016, I'm Reaching with JavaScript Since 2022. <br>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Botleyy" alt="Botleyy" /> </p>
 
-<h3 align="center">GitHub Profile :</h3>
-<p align="center">
-<a href="https://github.com/joshua19764" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=Botleyyy&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
-<a href="https://github.com/joshua19764" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Botleyyy&theme=dark&count_private=true&show_icons=true&hide_border=true"/></a>
-</p>
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/220655775016681483)](https://discord.com/users/220655775016681483)
