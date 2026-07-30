@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Botleyy<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <p align="center">
+<h1 align="center">Hi , I'm cool<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <p align="center">
 <p align="center">
 Discord Since 2020, I'm Reaching with JavaScript Since 2022. <br>
 </p>
