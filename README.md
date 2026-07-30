@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Botleyy<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <p align="center">
 <p align="center">
-Discord Since 2015, I'm Reaching with JavaScript Since 2022. <br>
+Discord Since 2020, I'm Reaching with JavaScript Since 2022. <br>
 </p>
 
 ### Programming Languages :
@@ -11,10 +11,9 @@ Discord Since 2015, I'm Reaching with JavaScript Since 2022. <br>
 <br />
 <h3>Profiles:</h3>
 <p align="left">
-<a href="https://discord.com/users/220655775016681483" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white">
+<a href="https://discord.com/users/ target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white">
 <a href="https://github.com/joshua19764" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://steamcommunity.com/profiles/7656119923286551022368722" target"blank_"><img src="https://img.shields.io/badge/steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Botleyy" alt="Botleyy" /> </p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/220655775016681483)](https://discord.com/users/220655775016681483)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Cool" alt="  cO0L
+                " /> </p>
